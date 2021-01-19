@@ -31,3 +31,4 @@ This is a  change
 
 
 
+made changes after git reset --hard
